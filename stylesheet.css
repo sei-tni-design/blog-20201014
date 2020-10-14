@@ -24,12 +24,14 @@
 .main{
   background-color: #F5F5F6;
   padding:100px 0;
-  display:flex;
+  display: flex;
+  width:1320px;
+  margin:0 auto;
 }
 
 .main-wrapper{
   padding:30px 30px;
-  margin:0px auto;
+  margin:0px 40px;
   background-color:#FFFFFF;
   width:860px;
 }
@@ -68,8 +70,9 @@
   font-size: 14px;
   font-family: Arial;
   color:#898989;
-  margin:12px 0 0;
-  padding:0 30px;
+  margin:0 40px;
+  padding:30px 30px;
+  width:300px;
 
 }
 
