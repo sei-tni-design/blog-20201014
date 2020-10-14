@@ -73,9 +73,11 @@
   margin:0 40px;
   padding:30px 30px;
   width:300px;
-  display: inline-flex;
   background-color: #FFFFFF;
+}
 
+.main-link li{
+  list-style: none;
 }
 
 .btn{
