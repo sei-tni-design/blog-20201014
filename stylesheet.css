@@ -24,6 +24,7 @@
 .main{
   background-color: #F5F5F6;
   padding:100px 0;
+  display:flex;
 }
 
 .main-wrapper{
